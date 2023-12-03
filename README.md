@@ -1,4 +1,4 @@
-# VoiceATM Created By Devipriya
+# VoiceATM 
 
 An ATM machine simulation web app using speech recognition
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
